@@ -23,10 +23,10 @@ If you have any ideas, please send them to me!
 
 ##  🎉 Skills
 <details>
-- **FrontEnd**: CSS, HTML, PHP
-- **BackEnd**: PHP
-- **Web technologies**: HTML5, CSS3
-- **Languages**: PHP
+<p>- **FrontEnd**: CSS, HTML, PHP</p>
+<p>- **BackEnd**: PHP</p>
+<p>- **Web technologies**: HTML5, CSS3</p>
+<p>- **Languages**: PHP</p>
 </details>
 ---
 🔥 From [Achedon12](https://github.com/leoderoin)
