@@ -17,17 +17,17 @@ I like to learn new things.
 If you have any ideas, please send them to me!
 
 ## ⚡ Stats
-<details>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoderoin&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/leoderoin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoin&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/leoderoin/github-readme-stats)
-</details>
 
 ##  🎉 Skills
+<details>
 - **FrontEnd**: CSS, HTML, PHP
 - **BackEnd**: PHP
 - **Web technologies**: HTML5, CSS3
 - **Languages**: PHP
-
+</details>
 ---
 🔥 From [Achedon12](https://github.com/leoderoin)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
