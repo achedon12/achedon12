@@ -19,5 +19,5 @@
 - **Languages**: PHP
 
 ---
-⭐️ De [Achedon12](https://github.com/leoderoin)
-Visiteurs : ![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
+⭐️ From [Achedon12](https://github.com/leoderoin)
+Visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
