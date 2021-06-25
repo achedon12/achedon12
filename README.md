@@ -22,12 +22,12 @@ If you have any ideas, please send them to me!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoin&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/leoderoin/github-readme-stats)
 
 ##  🎉 Skills
-<details>
-<p><b>FrontEnd</b>: CSS, HTML, PHP</p>
-<p><b>BackEnd</b>: PHP</p>
-<p><b>Web technologies</b>: HTML5, CSS3</p>
-<p><b>Languages</b>: PHP</p>
-</details>
+
+- **FrontEnd**: CSS, HTML, PHP
+- **BackEnd**: PHP
+- **Web technologies**: HTML5, CSS3
+- **Languages**: PHP
+
 ---
 🔥 From [Achedon12](https://github.com/leoderoin)
-![visitors]<src="https://visitor-badge.glitch.me/badge?page_id=leoderoin">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
