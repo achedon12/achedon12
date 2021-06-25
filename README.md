@@ -1,5 +1,5 @@
 
-# Hi, I'm Achedon12 !
+# Hi there !
 
 >  💻 developper web| PHP, HTML and CSS
 
