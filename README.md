@@ -4,7 +4,7 @@
 >  💻 developper web| PHP, HTML and CSS
 
 [![GitHub: @leoderoin](https://img.shields.io/github/followers/leoderoin?label=follow&style=social)](https://github.com/leoderoin)
-[![Twitter: @achedon12](https://img.shields.io/twitter/followers/achedon12?label=follow&style=social)](https://twitter.com/achedon12)
+[![Twitter: @achedon12](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fachedon12)](https://twitter.com/achedon12)
 [![Mail: Achedon12](https://img.shields.io/badge/Netcourrier-Achedon12-red)](l.deroin@nercourrier.com)
 
 
