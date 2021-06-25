@@ -8,9 +8,13 @@
 [![Mail: Achedon12](https://img.shields.io/badge/netcourrier-achedon12-brightgreen)](l.deroin@nercourrier.com)
 
 I am an apprentice developer living in France
+
 I like travelling, sports, music
+
 I am curious, attentive
+
 I like to learn new things.
+
 If you have any ideas, please send them to me!
 
 ## ⚡ Stats
