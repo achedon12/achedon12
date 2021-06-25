@@ -19,6 +19,7 @@ If you have any ideas, please send them to me!
 
 ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoderoin&hide=["issues"]&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoin&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/leoderoin/github-readme-stats)
 
 ##  🎉 Skills
 - **FrontEnd**: CSS, HTML
