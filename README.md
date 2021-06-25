@@ -5,7 +5,6 @@
 
 [![GitHub: @leoderoin](https://img.shields.io/github/followers/leoderoin?label=follow&style=social)](https://github.com/leoderoin)
 [![Twitter: @achedon12](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fachedon12)](https://twitter.com/achedon12)
-[![l.deroin@netcourrier.com](https://img.shields.io/static/v1?label=l.deroin@netcourrier.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](l.deroin@netcourrier.com)
 
 I am an apprentice developer living in France
 
