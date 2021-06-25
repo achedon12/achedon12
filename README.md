@@ -7,7 +7,11 @@
 [![Twitter: @achedon12](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fachedon12)](https://twitter.com/achedon12)
 [![Mail: Achedon12](https://img.shields.io/badge/netcourrier-achedon12-brightgreen)](l.deroin@nercourrier.com)
 
-
+I am an apprentice developer living in France
+I like travelling, sports, music
+I am curious, attentive
+I like to learn new things.
+If you have any ideas, please send them to me!
 
 ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoderoin&hide=["issues"]&show_icons=true)
