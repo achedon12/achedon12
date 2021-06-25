@@ -30,4 +30,4 @@ If you have any ideas, please send them to me!
 </details>
 ---
 🔥 From [Achedon12](https://github.com/leoderoin)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
+![visitors]<src="https://visitor-badge.glitch.me/badge?page_id=leoderoin">
