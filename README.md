@@ -3,7 +3,7 @@
 
 >  💻 developper web| PHP, Ruby, Java, Python HTML and CSS
 
-[![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
+[![GitHub: @leoderoin](https://img.shields.io/github/followers/leoderoin?label=follow&style=social)](https://github.com/leoderoin)
 [![Mail: Achedon12](https://img.shields.io/badge/Netcourrier-Achedon12-red)](l.deroin@nercourrier.com)
 
 I am a web developper :house: Provins, France.
@@ -16,15 +16,13 @@ I enjoy learning new things and connecting with people across a range of industr
 If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&hide=["issues"]&show_icons=true)
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoderoin&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, CSS, HTML
-- **BackEnd**: PHP, Node.js
-- **DevOps**: Nginx
+- **FrontEnd**: CSS, HTML
+- **BackEnd**: PHP
 - **Web technologies**: HTML5, CSS3
-- **Databases**: MongoDB (Mongoose), MySQL, MariaDB
-- **Languages**: Java, PHP, Js, Ruby, Python
+- **Languages**: PHP
 
 ---
 ⭐️ De [Achedon12](https://github.com/leoderoin)
