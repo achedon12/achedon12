@@ -1,5 +1,5 @@
 
-# Hi, I'm [Achedon12] ! 👋
+# Hi, I'm Achedon12 !
 
 >  💻 developper web| PHP, HTML and CSS
 
@@ -20,12 +20,12 @@ If you have any ideas, please send them to me!
 ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoderoin&hide=["issues"]&show_icons=true)
 
-##  🎉 Skills  🎉
+##  🎉 Skills
 - **FrontEnd**: CSS, HTML
 - **BackEnd**: PHP
 - **Web technologies**: HTML5, CSS3
 - **Languages**: PHP
 
 ---
-⭐️ From [Achedon12](https://github.com/leoderoin)
+🔥 From [Achedon12](https://github.com/leoderoin)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
