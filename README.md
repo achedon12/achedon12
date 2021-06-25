@@ -18,7 +18,7 @@ I like to learn new things.
 If you have any ideas, please send them to me!
 
 ## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoderoin&hide=["issues"]&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoderoin&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/leoderoin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoin&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/leoderoin/github-readme-stats)
 
 ##  🎉 Skills
