@@ -20,7 +20,7 @@ If you have any ideas, please send them to me!
 ## ⚡ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoderoin&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/leoderoin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoinlangs_count=8)](https://github.com/leoderoin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoinlangs_count=5)](https://github.com/leoderoin/github-readme-stats)
 
 
 ##  🎉 Skills
