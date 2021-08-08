@@ -20,7 +20,8 @@ If you have any ideas, please send them to me!
 ## ⚡ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoderoin&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/leoderoin/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoderoin)](https://github.com/leoderoin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoin&hide=javascript,html)](https://github.com/leoderoin/github-readme-stats)
+
 
 
 
