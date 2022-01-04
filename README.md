@@ -30,7 +30,7 @@ If you have any ideas, please send them to me!
 - **FrontEnd**: CSS, HTML
 - **BackEnd**: PHP
 - **Web technologies**: HTML5, CSS3
-- **Languages**: PHP, HTML, CSS, C, Py, PMMP
+- **Languages**: PHP, HTML, CSS, C, Py
 
 ---
 🔥 From [Achedon12](https://github.com/leoderoin)
