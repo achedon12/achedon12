@@ -28,7 +28,7 @@ If you have any ideas, please send them to me!
 ##  🎉 Skills
 
 - **FrontEnd**: CSS, HTML
-- **BackEnd**: PHP
+- **BackEnd**: PHP, SQL
 - **Web technologies**: HTML5, CSS3
 - **Languages**: PHP, HTML, CSS, C, Py
 
