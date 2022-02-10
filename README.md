@@ -19,8 +19,8 @@ If you have any ideas, please send them to me!
 
 ## ⚡ Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoderoin&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/leoderoin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoderoin&hide=javascript,html)](https://github.com/leoderoin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achedon12&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/achedon12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achedon12&hide=javascript,html)](https://github.com/achedon12/github-readme-stats)
 
 
 
