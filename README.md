@@ -33,5 +33,5 @@ If you have any ideas, please send them to me!
 - **Languages**: PHP, HTML, CSS, C, Py
 
 ---
-🔥 From [Achedon12](https://github.com/leoderoin)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leoderoin)
+🔥 From [Achedon12](https://github.com/achedon12)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=achedon12)
