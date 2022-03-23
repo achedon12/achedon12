@@ -27,10 +27,10 @@ If you have any ideas, please send them to me!
 
 ##  🎉 Skills
 
-- **FrontEnd**: CSS, HTML
+- **FrontEnd**: CSS, HTML, JS
 - **BackEnd**: PHP, SQL
-- **Web technologies**: HTML5, CSS3
-- **Languages**: PHP, HTML, CSS, C, Py
+- **API**: Pocketmine
+- **Languages**: PHP, HTML, CSS, C, Py, JS, SQL
 
 ---
 🔥 From [Achedon12](https://github.com/achedon12)
