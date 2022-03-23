@@ -34,4 +34,3 @@ If you have any ideas, please send them to me!
 
 ---
 🔥 From [Achedon12](https://github.com/achedon12)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=achedon12)
