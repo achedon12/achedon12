@@ -29,7 +29,7 @@ If you have any ideas, please send them to me!
 
 - **FrontEnd**: CSS, HTML, JS
 - **BackEnd**: PHP, SQL
-- **API**: Pocketmine
+- **API**: Pocketmine, Discord
 - **Languages**: PHP, HTML, CSS, C, Py, JS, SQL
 
 ---
