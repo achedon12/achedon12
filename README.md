@@ -31,6 +31,7 @@ If you have any ideas, please send them to me!
 - **BackEnd**: PHP, SQL
 - **API**: Pocketmine, Discord
 - **Languages**: PHP, HTML, CSS, C, Py, JS, SQL
+- **FrameWork**: Symfony
 
 ---
 🔥 From [Achedon12](https://github.com/achedon12)
