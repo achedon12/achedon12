@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Léo also Achedon</h1>
+<h1 align="center">Hi 👋, I'm leo also Achedon</h1>
 
 <h3 align="left">About me:</h3>
 
