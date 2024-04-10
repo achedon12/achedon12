@@ -6,7 +6,7 @@
 
 - 📘 A french student (at the IUT of Valence)
 
-- 🔭 Working on [Goldrush](https://github.com/GoldRush-Corporation)
+- 🔭 No personnal project for the moment, we'll see soon 👀
 
 - 🌱 Currently learning **Docker**
 
