@@ -8,7 +8,7 @@
 
 - 🔭 Working on [Goldrush](https://github.com/GoldRush-Corporation)
 
-- 🌱 Currently learning **Symfony**
+- 🌱 Currently learning **Docker**
 
 - 📫 How to reach me **l.deroin@netcourrier.com**
 
