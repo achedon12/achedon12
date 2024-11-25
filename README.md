@@ -4,7 +4,7 @@
 
 - 💻 A passionate developper (probably)
 
-- 📘 A french student (at the IUT of Valence)
+- 📘 A french student (at ESGI in Lyon)
 
 - 🔭 No personnal project for the moment, we'll see soon 👀
 
