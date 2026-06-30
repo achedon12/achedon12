@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **l.deroin@netcourrier.com**
 
-<iframe src="https://github.com/sponsors/achedon12/button" title="Sponsor achedon12" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achedon12" alt="achedon12" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
