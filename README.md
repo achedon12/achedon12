@@ -1,32 +1,154 @@
-<h1 align="center">Hi 👋, I'm leo also Achedon</h1>
+<a href="https://leoderoin.fr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Léo Deroin, développeur fullstack à Besançon. Symfony, React, Next.js. Disponible pour un CDI.">
+  </picture>
+</a>
 
-<h3 align="left">About me:</h3>
-
-- 💻 A passionate developper (probably)
-
-- 📘 A french student (at ESGI in Lyon)
-
-- 🔭 No personnal project for the moment, we'll see soon 👀
-
-- 🌱 Currently learning **Docker**
-
-- 📫 How to reach me **l.deroin@netcourrier.com**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achedon12" alt="achedon12" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leo-deroin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo-deroin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/achedon12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achedon12" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://leoderoin.fr"><img src="https://img.shields.io/badge/site-leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Site leoderoin.fr"></a>
+  <a href="https://www.linkedin.com/in/leo-deroin/"><img src="https://img.shields.io/badge/linkedin-leo--deroin-a35f00?style=flat-square&labelColor=555" alt="LinkedIn"></a>
+  <a href="mailto:contact@leoderoin.fr"><img src="https://img.shields.io/badge/email-contact%40leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Email"></a>
+  <a href="https://leoderoin.fr/leo-deroin-cv.pdf"><img src="https://img.shields.io/badge/cv-pdf-a35f00?style=flat-square&labelColor=555" alt="CV en PDF"></a>
+  <a href="https://www.youtube.com/c/achedon12"><img src="https://img.shields.io/badge/youtube-achedon12-a35f00?style=flat-square&labelColor=555" alt="YouTube"></a>
+  <img src="https://komarev.com/ghpvc/?username=achedon12&label=vues%20du%20profil&color=a35f00&style=flat-square" alt="Vues du profil">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"></a></p>
+## En bref
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achedon12&show_icons=true&locale=en&layout=compact" alt="achedon12" /></p>
+Je construis des applications web de bout en bout : un back **Symfony** (ou Phalcon, Node), une interface **React / Next.js** ou **Vue**, une base **MySQL**, le tout livré avec **Docker**. J'aime les projets qui ont une raison d'exister, et les interfaces où il se passe quelque chose.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achedon12&show_icons=true&locale=en" alt="achedon12" /></p>
+Deux ans d'alternance chez **Confluent Digital** à livrer des outils SaaS pour des PME, un **Master Ingénierie du web** à l'ESGI terminé en septembre 2026. Je cherche maintenant un **CDI de développeur fullstack**, depuis Besançon.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achedon12&" alt="achedon12" /></p>
+| Période | Poste | Où |
+| :-- | :-- | :-- |
+| 2024 → 2026 | Développeur fullstack, alternance · Next.js, Symfony, MySQL, Docker | Confluent Digital, Lyon |
+| 2024 → 2026 | Master Ingénierie du web | ESGI |
+| 2023 → 2024 | Développeur fullstack, alternance · React Native, Expo, PHP, Python | ELIPCE Solutions, Valence |
+| 2021 → 2024 | BUT Informatique | Université Grenoble Alpes |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achedon12&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="achedon12" /> </p>
+## Stack
+
+<table>
+  <tr>
+    <td width="120"><sub><b>FRONT</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,threejs,html,css&theme=dark&perline=12">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,threejs,html,css&theme=light&perline=12" height="40" alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind, Three.js, HTML, CSS">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>BACK</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,symfony,nodejs,nestjs,express,python,go&theme=dark&perline=12">
+        <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,nestjs,express,python,go&theme=light&perline=12" height="40" alt="PHP, Symfony, Node.js, NestJS, Express, Python, Go">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>DONNÉES</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,prisma,sqlite,redis,mongodb&theme=dark&perline=12">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,sqlite,redis,mongodb&theme=light&perline=12" height="40" alt="MySQL, PostgreSQL, Prisma, SQLite, Redis, MongoDB">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>DEVOPS</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,bash&theme=dark&perline=12">
+        <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,bash&theme=light&perline=12" height="40" alt="Docker, Linux, nginx, GitHub Actions, Git, Bash">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>QUALITÉ & OUTILS</b></sub></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest,playwright,vite,figma,blender&theme=dark&perline=12">
+        <img src="https://skillicons.dev/icons?i=vitest,playwright,vite,figma,blender&theme=light&perline=12" height="40" alt="Vitest, Playwright, Vite, Figma, Blender">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+## Outils open source
+
+<p>
+  <a href="https://github.com/achedon12/golem"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-golem-dark.svg"><img src="assets/project-golem-light.svg" width="49%" alt="golem"></picture></a>
+  <a href="https://github.com/achedon12/tuxcast"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tuxcast-dark.svg"><img src="assets/project-tuxcast-light.svg" width="49%" alt="tuxcast"></picture></a>
+  <a href="https://github.com/achedon12/regraft"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-regraft-dark.svg"><img src="assets/project-regraft-light.svg" width="49%" alt="regraft"></picture></a>
+  <a href="https://github.com/achedon12/guestroll"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-guestroll-dark.svg"><img src="assets/project-guestroll-light.svg" width="49%" alt="guestroll"></picture></a>
+</p>
+
+## En ligne
+
+<p>
+  <a href="https://loupsgarous.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-werewolf-dark.svg"><img src="assets/project-werewolf-light.svg" width="49%" alt="Loup-Garou en ligne"></picture></a>
+  <a href="https://mlbbdex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mlbb-dark.svg"><img src="assets/project-mlbb-light.svg" width="49%" alt="mlbbdex"></picture></a>
+  <a href="https://pushyourluck.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pushyourluck-dark.svg"><img src="assets/project-pushyourluck-light.svg" width="49%" alt="Push Your Luck"></picture></a>
+  <a href="https://azimut.page"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azimut-dark.svg"><img src="assets/project-azimut-light.svg" width="49%" alt="Azimut"></picture></a>
+  <a href="https://reflow.leoderoin.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-reflow-dark.svg"><img src="assets/project-reflow-light.svg" width="49%" alt="Reflow"></picture></a>
+  <a href="https://jeux.leoderoin.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lobby-dark.svg"><img src="assets/project-lobby-light.svg" width="49%" alt="Lobby, mes jeux"></picture></a>
+</p>
+
+Plus de 40 projets détaillés, avec captures et contexte, dans la [galerie du site](https://leoderoin.fr/projects).
+
+## Plugins PocketMine-MP
+
+J'ai commencé par Minecraft Bedrock : des plugins PocketMine-MP distribués en `.phar`, et une chaîne YouTube de tutos pour en écrire. [Golem](https://github.com/achedon12/golem) en est la suite logique : le framework de tests que j'aurais voulu avoir à l'époque.
+
+<details>
+<summary><b>Voir les plugins</b> · API 3, 4 et 5</summary>
+<br>
+
+| Plugin | Ce qu'il fait | API |
+| :-- | :-- | :-: |
+| [Faction](https://github.com/achedon12/Faction) | Système de factions | 5 |
+| [HangGlider](https://github.com/achedon12/HangGlider) | Deltaplane configurable pour planer | 5 |
+| [LobbySystem](https://github.com/achedon12/LobbySystem) | Lobby de serveur | 5 |
+| [DailyQuest](https://github.com/achedon12/DailyQuest) | Quêtes quotidiennes | 5 |
+| [DamageIndicator](https://github.com/achedon12/DamageIndicator) | Affichage des dégâts infligés | 5 |
+| [AcademyMC](https://github.com/achedon12/AcademyMC) | Core du serveur AcademyMC | 5 |
+| [SimpleCustomTPA](https://github.com/achedon12/SimpleCustomTPA) | Téléportation entre joueurs personnalisable | 4 |
+| [NickSystem](https://github.com/achedon12/NickSystem) | Changement de pseudo, `/nick` et `/unnick` | 4 |
+| [MineralContest](https://github.com/achedon12/MineralContest) | Le mode de jeu Mineral Contest | 4 |
+| [SimpleUHC](https://github.com/achedon12/SimpleUHC) | Mode de jeu UHC | 4 |
+| [RandomOre](https://github.com/achedon12/RandomOre) | Minerais aléatoires configurables | 4 |
+| [VoidStone](https://github.com/achedon12/VoidStone) | Récupère la pierre minée dans un item | 4 |
+| [Hammer](https://github.com/achedon12/Hammer) | Marteau qui mine en 3×3×2 | 4 |
+| [Atm](https://github.com/achedon12/Atm) | Distributeur compatible BedrockEconomy | 4 |
+| [Lottery](https://github.com/achedon12/Lottery) | Loterie compatible BedrockEconomy | 4 |
+| [KillReward](https://github.com/achedon12/KillReward) | Gagner de l'argent à chaque kill | 4 |
+| [FoodEffect](https://github.com/achedon12/FoodEffect) | N'importe quel effet sur la nourriture | 4 |
+| [StaffTools](https://github.com/achedon12/StaffTools) | Mode staff | 4 |
+| [SpyMod](https://github.com/achedon12/SpyMod) | Voir les commandes exécutées par les joueurs | 4 |
+| [WordBlocker](https://github.com/achedon12/WordBlocker) | Filtre de mots configurable | 4 |
+| [CustomDisableCommands](https://github.com/achedon12/CustomDisableCommands) | Désactive les commandes de son choix | 4 |
+| [CustomJoinLeaveMessage](https://github.com/achedon12/CustomJoinLeaveMessage) | Messages de connexion et de déconnexion | 4 |
+| [GodMod](https://github.com/achedon12/GodMod) | Mode sans dégâts de chute | 4 |
+| [CustomJoinmessage](https://github.com/achedon12/CustomJoinmessage) | Messages de bienvenue selon le joueur | 3 |
+| [CustomBuyRankUI](https://github.com/achedon12/CustomBuyRankUI) | Achat de grades en jeu | 3 |
+| [CustomKnockBack](https://github.com/achedon12/CustomKnockBack) | Knockback configurable | 3 |
+| [CustomMinage](https://github.com/achedon12/CustomMinage) | Zones de minage configurables | 3 |
+
+</details>
+
+## Activité
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="49%" alt="Statistiques GitHub"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Langages les plus utilisés"></picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achedon12/achedon12/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/achedon12/achedon12/output/snake-light.svg" width="100%" alt="Contributions de l'année parcourues par un serpent">
+</picture>
+
+<p align="center"><sub>Cartes régénérées chaque jour par <a href=".github/workflows/cards.yml">une GitHub Action</a> · <a href="https://leoderoin.fr">leoderoin.fr</a></sub></p>
