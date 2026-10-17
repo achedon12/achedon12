@@ -131,7 +131,7 @@ def icon(name: str, x: float, y: float, size: float, color: str, width: float = 
 
 
 def fmt(n: int) -> str:
-    return f"{n / 1000:.1f}k".replace(".0k", "k") if n >= 10000 else f"{n:,}".replace(",", " ")
+    return f"{n / 1000:.1f}k".replace(".0k", "k") if n >= 10000 else f"{n:,}"
 
 
 def frame(w: int, h: int, t: dict, body: str, label: str, style: str = "") -> str:
@@ -201,10 +201,10 @@ def header(t: dict) -> str:
 </g>
 <text class="m" x="64" y="62" font-size="13" letter-spacing="2" fill="{t["faint"]}">STATION LD-001  ·  BESANÇON  ·  47.2378° N, 6.0241° E</text>
 <text x="62" y="140" font-size="64" font-weight="700" letter-spacing="-1.5" fill="{t["text"]}">Léo Deroin</text>
-<text x="64" y="182" font-size="22" fill="{t["muted"]}">Développeur fullstack <tspan fill="{t["faint"]}">—</tspan> Symfony, React, Next.js</text>
+<text x="64" y="182" font-size="22" fill="{t["muted"]}">Full-stack developer <tspan fill="{t["faint"]}">—</tspan> Symfony, React, Next.js</text>
 <rect x="64" y="216" width="318" height="38" rx="19" fill="{t["bg"]}" stroke="{t["border"]}"/>
 {led(86, 235, t["green"], 4, pulse=True)}
-<text class="m" x="102" y="240" font-size="14" fill="{t["text"]}">Disponible pour un CDI</text>
+<text class="m" x="102" y="240" font-size="14" fill="{t["text"]}">Open to a full-time role</text>
 <text class="m" x="400" y="240" font-size="14" fill="{t["amber"]}">leoderoin.fr</text>
 """
     style = (
@@ -215,23 +215,23 @@ def header(t: dict) -> str:
         "@keyframes pulse{50%{opacity:.04}}"
         "@media (prefers-reduced-motion:reduce){.spin,.pulse{animation:none}}"
     )
-    return frame(w, h, t, body, "Léo Deroin, développeur fullstack à Besançon", style)
+    return frame(w, h, t, body, "Léo Deroin, full-stack developer in Besançon, France", style)
 
 
 
 def stats(t: dict, d: dict) -> str:
     w, h = 495, 230
     tiles = [
-        ("star", "Étoiles", d["stars"], "amber"),
+        ("star", "Stars", d["stars"], "amber"),
         ("commit", "Commits", d["commits"], "cyan"),
         ("pr", "Pull requests", d["prs"], "green"),
-        ("activity", f"Contributions {d['contrib_year']} / an", d["contrib_total"], "amber"),
-        ("folder", "Dépôts publics", d["repos"], "cyan"),
+        ("activity", f"Contributions {d['contrib_year']} / year", d["contrib_total"], "amber"),
+        ("folder", "Public repos", d["repos"], "cyan"),
         ("users", "Followers", d["followers"], "green"),
     ]
     body = [
-        f'<text class="m" x="24" y="38" font-size="12" letter-spacing="1.6" fill="{t["faint"]}">ACTIVITÉ GITHUB</text>',
-        f'<text class="m" x="{w - 24}" y="38" font-size="12" text-anchor="end" fill="{t["faint"]}">depuis {d["since"]}</text>',
+        f'<text class="m" x="24" y="38" font-size="12" letter-spacing="1.6" fill="{t["faint"]}">GITHUB ACTIVITY</text>',
+        f'<text class="m" x="{w - 24}" y="38" font-size="12" text-anchor="end" fill="{t["faint"]}">since {d["since"]}</text>',
     ]
     tw, th = 141, 76
     for i, (ic, label, value, color) in enumerate(tiles):
@@ -244,14 +244,14 @@ def stats(t: dict, d: dict) -> str:
             f'<text x="{x + 36}" y="{y + 26}" font-size="12" fill="{t["muted"]}">{label}</text>'
             f'<text x="{x + 14}" y="{y + 60}" font-size="26" font-weight="700" fill="{t["text"]}">{fmt(value)}</text>'
         )
-    return frame(w, h, t, "".join(body), "Statistiques GitHub de achedon12")
+    return frame(w, h, t, "".join(body), "GitHub stats of achedon12")
 
 
 def languages(t: dict, d: dict) -> str:
     w, h = 495, 230
     top = d["langs"][:8]
     total = sum(v[0] for _, v in top) or 1
-    body = [f'<text class="m" x="24" y="38" font-size="12" letter-spacing="1.6" fill="{t["faint"]}">LANGAGES LES PLUS UTILISÉS</text>']
+    body = [f'<text class="m" x="24" y="38" font-size="12" letter-spacing="1.6" fill="{t["faint"]}">MOST USED LANGUAGES</text>']
     x, bw = 24, w - 48
     body.append(f'<clipPath id="bar"><rect x="24" y="56" width="{bw}" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">')
     for name, (size, color) in top:
@@ -265,9 +265,9 @@ def languages(t: dict, d: dict) -> str:
         body.append(
             f'<circle cx="{cx + 5}" cy="{cy - 4}" r="5" fill="{color}"/>'
             f'<text x="{cx + 18}" y="{cy}" font-size="14" fill="{t["text"]}">{escape(name)}</text>'
-            f'<text class="m" x="{cx + 210}" y="{cy}" font-size="13" text-anchor="end" fill="{t["muted"]}">{100 * size / total:.1f} %</text>'
+            f'<text class="m" x="{cx + 210}" y="{cy}" font-size="13" text-anchor="end" fill="{t["muted"]}">{100 * size / total:.1f}%</text>'
         )
-    return frame(w, h, t, "".join(body), "Langages les plus utilisés par achedon12")
+    return frame(w, h, t, "".join(body), "Languages most used by achedon12")
 
 
 

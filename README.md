@@ -1,32 +1,32 @@
 <a href="https://leoderoin.fr">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" width="100%" alt="Léo Deroin, développeur fullstack à Besançon. Symfony, React, Next.js. Disponible pour un CDI.">
+    <img src="assets/header-light.svg" width="100%" alt="Léo Deroin, full-stack developer in Besançon, France. Symfony, React, Next.js. Open to a full-time role.">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://leoderoin.fr"><img src="https://img.shields.io/badge/site-leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Site leoderoin.fr"></a>
+  <a href="https://leoderoin.fr"><img src="https://img.shields.io/badge/website-leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Website leoderoin.fr"></a>
   <a href="https://www.linkedin.com/in/leo-deroin/"><img src="https://img.shields.io/badge/linkedin-leo--deroin-a35f00?style=flat-square&labelColor=555" alt="LinkedIn"></a>
   <a href="mailto:pro@leoderoin.fr"><img src="https://img.shields.io/badge/email-pro%40leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Email"></a>
-  <a href="https://leoderoin.fr/leo-deroin-cv.pdf"><img src="https://img.shields.io/badge/cv-pdf-a35f00?style=flat-square&labelColor=555" alt="CV en PDF"></a>
+  <a href="https://leoderoin.fr/leo-deroin-cv.pdf"><img src="https://img.shields.io/badge/resume-pdf-a35f00?style=flat-square&labelColor=555" alt="Resume (PDF)"></a>
   <a href="https://www.youtube.com/c/achedon12"><img src="https://img.shields.io/badge/youtube-achedon12-a35f00?style=flat-square&labelColor=555" alt="YouTube"></a>
-  <img src="https://komarev.com/ghpvc/?username=achedon12&label=vues%20du%20profil&color=a35f00&style=flat-square" alt="Vues du profil">
+  <img src="https://komarev.com/ghpvc/?username=achedon12&label=profile%20views&color=a35f00&style=flat-square" alt="Profile views">
 </p>
 
-## À propos
+## About me
 
-- 💻 **Développeur fullstack** à Besançon : un back **Symfony** ou Node, une interface **React / Next.js** ou Vue, livrés avec **Docker**
-- 🎓 **Master Ingénierie du web** à l'ESGI, terminé en septembre 2026
-- 🏢 **Deux ans d'alternance** chez Confluent Digital, à livrer des outils SaaS pour des PME
-- 🎯 J'aime les projets qui ont une raison d'exister, et les interfaces où il se passe quelque chose
-- 📫 **Disponible pour un CDI** : [pro@leoderoin.fr](mailto:pro@leoderoin.fr)
+- 💻 **Full-stack developer** based in Besançon, France: a **Symfony** or Node back end, a **React / Next.js** or Vue front end, shipped with **Docker**
+- 🎓 **Master's degree in Web Engineering** from ESGI, completed in September 2026
+- 🏢 **Two years as a work-study developer** at Confluent Digital, shipping SaaS tools for small businesses
+- 🎯 I like projects with a reason to exist, and interfaces where something happens
+- 📫 **Open to a full-time role**: [pro@leoderoin.fr](mailto:pro@leoderoin.fr)
 
 ## Stack
 
 <table>
   <tr>
-    <td width="120"><sub><b>FRONT</b></sub></td>
+    <td width="120"><sub><b>FRONT END</b></sub></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,threejs,html,css&theme=dark&perline=12">
@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <td><sub><b>BACK</b></sub></td>
+    <td><sub><b>BACK END</b></sub></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,symfony,nodejs,nestjs,express,python,go&theme=dark&perline=12">
@@ -44,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td><sub><b>DONNÉES</b></sub></td>
+    <td><sub><b>DATA</b></sub></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,prisma,sqlite,redis,mongodb&theme=dark&perline=12">
@@ -62,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td><sub><b>QUALITÉ & OUTILS</b></sub></td>
+    <td><sub><b>TESTING & TOOLS</b></sub></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest,playwright,vite,figma,blender&theme=dark&perline=12">
@@ -72,16 +72,16 @@
   </tr>
 </table>
 
-## Activité
+## Activity
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="49%" alt="Statistiques GitHub"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Langages les plus utilisés"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="49%" alt="GitHub stats"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Most used languages"></picture>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achedon12/achedon12/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/achedon12/achedon12/output/snake-light.svg" width="100%" alt="Contributions de l'année parcourues par un serpent">
+  <img src="https://raw.githubusercontent.com/achedon12/achedon12/output/snake-light.svg" width="100%" alt="A snake eating this year's contributions">
 </picture>
 
-<p align="center"><sub>Projets, captures et contexte sur <a href="https://leoderoin.fr">leoderoin.fr</a></sub></p>
+<p align="center"><sub>Projects, screenshots and stories on <a href="https://leoderoin.fr">leoderoin.fr</a></sub></p>
