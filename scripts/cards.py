@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 import urllib.request
 from html import escape
@@ -46,6 +47,19 @@ ICONS = {
     "globe": '<circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/>',
     "package": '<path d="M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"/><path d="M12 22V12"/><path d="m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"/>',
 }
+
+# Main stack, by category: (name, Simple Icons slug, or None where it has no logo: a monogram instead).
+SIMPLE_ICONS = "https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons"
+STACK = [
+    ("FRONT END", "amber", [("TypeScript", "typescript"), ("JavaScript", "javascript"), ("React", "react"), ("Next.js", "nextdotjs"),
+                            ("Vue", "vuedotjs"), ("Tailwind CSS", "tailwindcss"), ("Three.js", "threedotjs"), ("HTML & CSS", "html5")]),
+    ("MOBILE", "rose", [("React Native", "react"), ("Expo", "expo")]),
+    ("BACK END", "cyan", [("PHP", "php"), ("Symfony", "symfony"), ("Phalcon", None), ("Node.js", "nodedotjs"), ("NestJS", "nestjs"),
+                          ("Express", "express"), ("Socket.IO", "socketdotio"), ("Python", "python"), ("Go", "go")]),
+    ("DATA", "green", [("MySQL", "mysql"), ("PostgreSQL", "postgresql"), ("Prisma", "prisma"), ("SQLite", "sqlite"), ("Redis", "redis"), ("MongoDB", "mongodb")]),
+    ("DEVOPS", "amber", [("Docker", "docker"), ("Linux", "linux"), ("nginx", "nginx"), ("GitHub Actions", "githubactions"), ("Git", "git"), ("Bash", "gnubash")]),
+    ("TESTING & TOOLS", "cyan", [("Vitest", "vitest"), ("Playwright", None), ("Jest", "jest"), ("Vite", "vite"), ("Figma", "figma"), ("Blender", "blender")]),
+]
 
 EXCLUDED_LANGS = {"Dockerfile", "Makefile", "Procfile", "Batchfile", "PowerShell"}
 
@@ -271,6 +285,44 @@ def languages(t: dict, d: dict) -> str:
 
 
 
+def icon_paths(slug: str) -> str:
+    """The <path> of a Simple Icons logo (24x24, one path), fetched once per run."""
+    cache = icon_paths.__dict__.setdefault("cache", {})
+    if slug not in cache:
+        req = urllib.request.Request(f"{SIMPLE_ICONS}/{slug}.svg", headers={"User-Agent": USER})
+        with urllib.request.urlopen(req, timeout=30) as res:
+            svg = res.read().decode()
+        cache[slug] = "".join(re.findall(r"<path[^>]*/>", svg))
+    return cache[slug]
+
+
+def stack(t: dict) -> str:
+    w = 1040
+    x0, gap, ch = 164, 7, 30
+    body = [f'<text class="m" x="24" y="38" font-size="12" letter-spacing="1.6" fill="{t["faint"]}">MAIN STACK</text>']
+    y = 58
+    for label, accent, items in STACK:
+        body.append(f'<text class="m" x="24" y="{y + 19}" font-size="11.5" letter-spacing="1.4" fill="{t[accent]}">{escape(label)}</text>')
+        x = x0
+        for name, slug in items:
+            cw = 44 + len(name) * 6.6
+            if x + cw > w - 24:
+                x, y = x0, y + ch + gap
+            if slug:
+                logo = (f'<g transform="translate({x + 11} {y + 8}) scale({14 / 24:.4f})" fill="{t[accent]}">'
+                        f"{icon_paths(slug)}</g>")
+            else:
+                logo = (f'<circle cx="{x + 18}" cy="{y + 15}" r="7.5" fill="{t[accent]}"/>'
+                        f'<text class="m" x="{x + 18}" y="{y + 18.5}" text-anchor="middle" font-size="10" '
+                        f'font-weight="700" fill="{t["panel"]}">{name[0]}</text>')
+            body.append(
+                f'<rect x="{x}" y="{y}" width="{cw:.1f}" height="{ch}" rx="15" fill="{t["bg"]}" stroke="{t["border"]}"/>'
+                f'{logo}<text x="{x + 32}" y="{y + 20}" font-size="13" fill="{t["text"]}">{escape(name)}</text>'
+            )
+            x += cw + gap
+        y += ch + gap + 8
+    return frame(w, y + 10, t, "".join(body), "Main stack of Léo Deroin")
+
 def main() -> None:
     OUT.mkdir(exist_ok=True)
     data = fetch()
@@ -278,6 +330,7 @@ def main() -> None:
         (OUT / f"header-{mode}.svg").write_text(header(t))
         (OUT / f"stats-{mode}.svg").write_text(stats(t, data))
         (OUT / f"languages-{mode}.svg").write_text(languages(t, data))
+        (OUT / f"stack-{mode}.svg").write_text(stack(t))
     print(f"cards written to {OUT}")
 
 

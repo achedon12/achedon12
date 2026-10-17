@@ -11,7 +11,7 @@
   <a href="mailto:pro@leoderoin.fr"><img src="https://img.shields.io/badge/email-pro%40leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Email"></a>
   <a href="https://leoderoin.fr/leo-deroin-cv.pdf"><img src="https://img.shields.io/badge/resume-pdf-a35f00?style=flat-square&labelColor=555" alt="Resume (PDF)"></a>
   <a href="https://www.youtube.com/c/achedon12"><img src="https://img.shields.io/badge/youtube-achedon12-a35f00?style=flat-square&labelColor=555" alt="YouTube"></a>
-  <img src="https://komarev.com/ghpvc/?username=achedon12&label=profile%20views&color=a35f00&style=flat-square" alt="Profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=achedon12.achedon12&left_text=profile%20views&left_color=%23555&right_color=%23a35f00" alt="Profile views">
 </p>
 
 ## About me
@@ -24,53 +24,10 @@
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="120"><sub><b>FRONT END</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,threejs,html,css&theme=dark&perline=12">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,threejs,html,css&theme=light&perline=12" height="40" alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind, Three.js, HTML, CSS">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>BACK END</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,symfony,nodejs,nestjs,express,python,go&theme=dark&perline=12">
-        <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,nestjs,express,python,go&theme=light&perline=12" height="40" alt="PHP, Symfony, Node.js, NestJS, Express, Python, Go">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>DATA</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,prisma,sqlite,redis,mongodb&theme=dark&perline=12">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,sqlite,redis,mongodb&theme=light&perline=12" height="40" alt="MySQL, PostgreSQL, Prisma, SQLite, Redis, MongoDB">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>DEVOPS</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,bash&theme=dark&perline=12">
-        <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,bash&theme=light&perline=12" height="40" alt="Docker, Linux, nginx, GitHub Actions, Git, Bash">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>TESTING & TOOLS</b></sub></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest,playwright,vite,figma,blender&theme=dark&perline=12">
-        <img src="https://skillicons.dev/icons?i=vitest,playwright,vite,figma,blender&theme=light&perline=12" height="40" alt="Vitest, Playwright, Vite, Figma, Blender">
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Main stack: TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, Three.js, HTML & CSS; React Native, Expo; PHP, Symfony, Phalcon, Node.js, NestJS, Express, Socket.IO, Python, Go; MySQL, PostgreSQL, Prisma, SQLite, Redis, MongoDB; Docker, Linux, nginx, GitHub Actions, Git, Bash; Vitest, Playwright, Jest, Vite, Figma, Blender">
+</picture>
 
 ## Activity
 
