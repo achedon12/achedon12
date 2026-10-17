@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://leoderoin.fr"><img src="https://img.shields.io/badge/site-leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Site leoderoin.fr"></a>
   <a href="https://www.linkedin.com/in/leo-deroin/"><img src="https://img.shields.io/badge/linkedin-leo--deroin-a35f00?style=flat-square&labelColor=555" alt="LinkedIn"></a>
-  <a href="mailto:contact@leoderoin.fr"><img src="https://img.shields.io/badge/email-contact%40leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Email"></a>
+  <a href="mailto:pro@leoderoin.fr"><img src="https://img.shields.io/badge/email-pro%40leoderoin.fr-a35f00?style=flat-square&labelColor=555" alt="Email"></a>
   <a href="https://leoderoin.fr/leo-deroin-cv.pdf"><img src="https://img.shields.io/badge/cv-pdf-a35f00?style=flat-square&labelColor=555" alt="CV en PDF"></a>
   <a href="https://www.youtube.com/c/achedon12"><img src="https://img.shields.io/badge/youtube-achedon12-a35f00?style=flat-square&labelColor=555" alt="YouTube"></a>
   <img src="https://komarev.com/ghpvc/?username=achedon12&label=vues%20du%20profil&color=a35f00&style=flat-square" alt="Vues du profil">
@@ -20,7 +20,7 @@
 - 🎓 **Master Ingénierie du web** à l'ESGI, terminé en septembre 2026
 - 🏢 **Deux ans d'alternance** chez Confluent Digital, à livrer des outils SaaS pour des PME
 - 🎯 J'aime les projets qui ont une raison d'exister, et les interfaces où il se passe quelque chose
-- 📫 **Disponible pour un CDI** : [contact@leoderoin.fr](mailto:contact@leoderoin.fr)
+- 📫 **Disponible pour un CDI** : [pro@leoderoin.fr](mailto:pro@leoderoin.fr)
 
 ## Stack
 
